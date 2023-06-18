@@ -6,7 +6,6 @@
                 <p>The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios. The films are based on characters that appear in American comic books published by Marvel Comics. The franchise also includes television series, short films, digital series, and literature. The shared universe, much like the original Marvel Universe in comic books, was established by crossing over common plot elements, settings, cast, and characters.</p>
 
             </div>
-            <!-- <img class="marvel-main-img" src="../assets/marvel.jpg" alt=""> -->
         </div>
         <div class="comics">
             <h3 class="comics-title">Comics</h3>
@@ -155,13 +154,6 @@ export default {
         color: white;
         font-size: 10px;
     }
-
-    /* .marvel-main-img {
-        max-width: 100%;
-        width: 100%;
-        height: 700px;
-        object-fit: cover;
-    } */
 
     .main-page {
         background-image: url("../assets/marvel.jpg");
